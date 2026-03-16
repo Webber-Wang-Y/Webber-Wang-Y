@@ -1,4 +1,12 @@
-## Hi there 👋
+## About me 👋
+- Hi, I'm @Webber-Wang-Y
+- 📚 Experimental Medical Class (Ba Denian Class, Eight-Year Program of Clinical Medicine), Chu Kochen Honors College, Zhejiang University.
+- 🧬 Biological science + clinical medicine.
+- 🌱 Currently learning Python, git, etc *(with the assistance of AI)*. Trying to automate data workflows and handle experimental results.
+- 📷 Passionate about photography.
+
+>"Two roads diverged in a wood, and I — I took the one less traveled by, And that has made all the difference."
+
 
 <!--
 **Webber-Wang-Y/Webber-Wang-Y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
